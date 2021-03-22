@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "sn.isi.m2gl",
+      "nativeLanguage": "fr"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "gesCovid19",
+    "packageName": "sn.isi.m2gl",
+    "packageFolder": "sn/isi/m2gl",
+    "serverPort": "8081",
+    "authenticationType": "oauth2",
+    "cacheProvider": "no",
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "MTJiMjA5NWY0ZDVhOGMyNWYzZWQyMjRlNzY4YTk1MWJiZjUyZjI5ODNlZTliNGU4OTU5Yzg5ZWEzMTFlYjZjYmU1YzdmODJhY2M4ZGU1YjUxZDM0NmZlYjA5NmMwOGNjNWQ1OTJiYTU1MzljMjcwYmI1Yzc0OTM4ZTM2NDZkZmE=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1611863747526,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "clientPackageManager": "npm",
+    "nativeLanguage": "fr",
+    "languages": ["fr"],
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true,
+    "lastLiquibaseTimestamp": 1612823956000
+  }
+}

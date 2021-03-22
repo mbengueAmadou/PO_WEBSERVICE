@@ -1,0 +1,41 @@
+{
+  "fluentMethods": true,
+  "clientRootFolder": "gesCovid19",
+  "relationships": [],
+  "fields": [
+    {
+      "fieldName": "nbrtest",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "postifcase",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "importedCase",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "death",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "recovered",
+      "fieldType": "String"
+    },
+    {
+      "fieldName": "date",
+      "fieldType": "LocalDate"
+    }
+  ],
+  "changelogDate": "20210208223916",
+  "dto": "no",
+  "searchEngine": false,
+  "service": "no",
+  "entityTableName": "sencovid",
+  "databaseType": "sql",
+  "readOnly": false,
+  "jpaMetamodelFiltering": false,
+  "pagination": "no",
+  "microserviceName": "gesCovid19"
+}
